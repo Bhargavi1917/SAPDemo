@@ -2,7 +2,7 @@ package customer.javadev;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
-
+#application
 @SpringBootApplication
 public class Application {
 
